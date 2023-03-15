@@ -26,10 +26,10 @@
 Path is the primitive of lane graph. There is a gap between previous lane graph modelings and driving habit of human drivers, as well as the requirements of autonomous vehicles. To bridge this gap, we propose to model the lane graph in a novel path-wise manner, which well preserves the continuity of the lane and encodes traffic information for planning. We present a path-based online lane graph construction framework, termed LaneGAP.
 
 
-
-<div style="text-align: center;">
-<img src="assets/qualitative_comparison.png" style="margin: 0 auto;" />
+<div align="center">
+<img src="assets/qualitative_comparison.png" />
 </div>
+
 
 
 ## Qualitative results on the whole nuScenes val set
