@@ -8,7 +8,7 @@
 
 (\*) equal contribution, (<sup>:email:</sup>) corresponding author.
 
-
+ArXiv Preprint ([arXiv 2303.08815](https://arxiv.org/abs/2303.08815))
 
 </div>
 
@@ -74,3 +74,11 @@ https://user-images.githubusercontent.com/31960625/225223820-6c3ab56c-86a7-4e47-
 ## Citation
 If you find LaneGAP is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
 
+```bibtex
+ @article{lanegap,
+  title={Lane Graph as Path: Continuity-preserving Path-wise Modeling for Online Lane Graph Construction},
+  author={Bencheng Liao and Shaoyu Chen and Bo Jiang and Tianheng Cheng and Qian Zhang and Wenyu Liu and Chang Huang and Xinggang Wang},
+  journal={arXiv preprint arXiv:2303.08815},
+  year={2023}
+}
+```
