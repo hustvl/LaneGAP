@@ -19,7 +19,7 @@ ArXiv Preprint ([arXiv 2303.08815](https://arxiv.org/abs/2303.08815))
 
 ### News
 
-
+* **`16 March, 2023`:** We released our paper on Arxiv. Code/Models are coming soon. Please stay tuned! ☕️
 
 
 ## Introduction
