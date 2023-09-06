@@ -19,7 +19,10 @@ ArXiv Preprint ([arXiv 2303.08815](https://arxiv.org/abs/2303.08815))
 
 ### News
 
-* **`16 March, 2023`:** We released our paper on Arxiv. Code/Models are coming soon. Please stay tuned! ☕️
+
+
+* **`Aug. 31st, 2023`:** Code of LaneGAP is released together with MapTRv2 (https://github.com/hustvl/MapTR).
+* **` Mar. 16th, 2023`:** We released our paper on Arxiv. Code/Models are coming soon. Please stay tuned! ☕️
 
 
 ## Introduction
